@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(3, 3, 9);
+    height: 650px;
+    padding: 50px;
+
+}
+
+.container{
+    
+    height: 650px;
+    border-radius: 11px;
+    
+}
+.community{
+    height: 200px;
+    background-color: rgb(255, 253, 253);
+    padding: 50px;
+    text-align: center;
+    
+}
+.community h3,p{
+    margin-top: 20px;
+    
+}
+.box23{
+    display: flex;
+    color: bisque;
+}
+.card{
+    width: 50%;
+    height: 350px;
+
+}
+.card{
+    background-color: rgb(15, 67, 66);
+    text-align: center;
+    /* padding-top: 100px; */
+    
+
+}
+.why-us{
+    background-color:rgba(85, 145, 142, 0.698) ;
+    text-align: center;
+    width: 50%;
+    /* padding-top: 100px; */
+    font-family: 'Oswald', sans-serif;
+    font-weight: 50;
+
+}
+.why-us h3{
+    margin-top: 100px;
+}
+.doller{
+    display: flex;
+}
+
+button{
+    margin-top: 20px;
+    width: 120px;
+    height: 40px;
+    background-color: rgb(78, 155, 0);
+    border-radius: 11px;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    font-weight: 150px;
+}
+
+.card h3{
+    margin-top: 100px;
+   
+   
+}
